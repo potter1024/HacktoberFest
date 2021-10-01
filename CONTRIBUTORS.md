@@ -1940,6 +1940,11 @@ Noida
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
 
+#### Name: [Rishab Kumar](https://github.com/potter1024)
+- Place: Chandigarh,India
+- Bio: Software engineering enthusiast
+- GitHub: [potter1024](https://github.com/potter1024)
+
 #### Name: [Rishabh Thaney](https://github.com/Rishabh42)
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
